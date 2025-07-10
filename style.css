@@ -1,0 +1,20 @@
+h1
+{
+	font-family: sans-serif;
+	color: lightslategray;
+}
+
+p
+{ 
+	font-family:cursive;
+}
+
+li
+{
+	font-family: monospace;
+}
+
+body
+{
+	background-color: lightblue;
+}
